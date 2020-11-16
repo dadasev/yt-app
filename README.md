@@ -1,3 +1,6 @@
+It's a simple Youtube clone made with React (using only functional components with hooks instead of class components) and Youtube API.
+Deployed with Netlify.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
